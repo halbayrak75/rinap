@@ -181,14 +181,14 @@ nav:
     - MathJax: reference/mathjax.md
     - Meta tags: reference/meta-tags.md
     - Variables: reference/variables.md
-  - Changelog:
-    - Material for MkDocs: changelog.md
-    - Material for MkDocs Insiders: changelog/insiders.md
-    - Guides:
-      - Upgrading: upgrading.md
-      - Deprecations: deprecations.md
+ # - Changelog:
+ #   - Material for MkDocs: changelog.md
+ #   - Material for MkDocs Insiders: changelog/insiders.md
+ #   - Guides:
+ #     - Upgrading: upgrading.md
+ #     - Deprecations: deprecations.md
 
 # Google Analytics
-google_analytics:
-  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
-  - auto
+#google_analytics:
+ # - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+  #- auto
