@@ -19,21 +19,19 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_name: Rinap
+site_url: https://halbayrak75.github.io/rinap/
+site_author: Rinap
 site_description: >-
-  Create a branded static site from a set of Markdown files to host the
-  documentation of your Open Source or commercial project – customizable,
-  searchable, mobile-friendly, 40+ languages
+  Risale-i Nur
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
-edit_uri: ""
+# repo_name: squidfunk/mkdocs-material
+#repo_url: https://github.com/squidfunk/mkdocs-material
+# edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2021 Martin Donath
+#copyright: Copyright &copy; 2016 - 2021 Martin Donath
 
 # Configuration
 theme:
