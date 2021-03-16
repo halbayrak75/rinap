@@ -5,10 +5,7 @@ title: Getting started
 
 # Getting started
 
-Material for MkDocs is a theme for [MkDocs][1], a static site generator geared
-towards (technical) project documentation. If you're familiar with Python, you
-can install Material for MkDocs with [`pip`][2], the Python package manager.
-If not, we recommended using [`docker`][3].
+DENEME 123
 
 In case you're running into problems, consult the [troubleshooting][4] section.
 
